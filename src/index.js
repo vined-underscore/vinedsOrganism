@@ -192,10 +192,6 @@ class vinedsUnicellularOrganism {
         } else if (msg.startsWith('You whisper to')) {
           console.log(`${chalk.blue.bold(`[${formatted}]`)} ${chalk.rgb(85, 254, 84).bold(msg)}`);
         }
-        if (msg.startsWith('vined_ wants to')) {
-          await sleep(5000)
-          this.bot.chat('/tpy vined_');
-        }
       }
     });
   }
