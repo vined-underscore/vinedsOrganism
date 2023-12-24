@@ -1,0 +1,15 @@
+{
+    "username": "name",
+    "password": "pass",
+    "server": {
+        "host": "anarchy.6b6t.org",
+        "port": 25565
+    },
+    "messages": [
+        "Make sure to join the official 6b6t Discord! {randstr}",
+        "Join the official 6b6t Discord today! {randstr}",
+        "Don't forget to join the official 6b6t Discord! {randstr}"
+    ],
+    "msgDelay": 12,
+    "spamLength": 16
+}
