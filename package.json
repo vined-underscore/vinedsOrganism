@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vined-underscore/555Bot.git"
+    "url": "git+https://github.com/vined-underscore/vinedsOrganism.git"
   },
   "author": "vined_",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vined-underscore/555Bot/issues"
+    "url": "https://github.com/vined-underscore/vinedsOrganism/issues"
   },
-  "homepage": "https://github.com/vined-underscore/555Bot#readme",
+  "homepage": "https://github.com/vined-underscore/vinedsOrganism#readme",
   "dependencies": {
     "chalk": "^5.3.0",
     "mineflayer": "^4.14.0",
